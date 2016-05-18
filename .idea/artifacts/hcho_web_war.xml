@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hcho-web:war">
+    <output-path>$PROJECT_DIR$/hcho-web/target</output-path>
+    <root id="archive" name="hcho-web.war">
+      <element id="artifact" artifact-name="hcho-web:war exploded" />
+    </root>
+  </artifact>
+</component>

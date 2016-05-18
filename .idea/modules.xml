@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HCHO.iml" filepath="$PROJECT_DIR$/HCHO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcho-dao/hcho-dao.iml" filepath="$PROJECT_DIR$/hcho-dao/hcho-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcho-service/hcho-service.iml" filepath="$PROJECT_DIR$/hcho-service/hcho-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcho-web/hcho-web.iml" filepath="$PROJECT_DIR$/hcho-web/hcho-web.iml" />
+    </modules>
+  </component>
+</project>
